@@ -21,7 +21,7 @@ h1 {
     font-size: 24px;
     font-weight:bold;
 }
-.click .noclick{
+.click, .noclick{
     font-family: helvetica,"Times New Roman",sans-serif;
     font-size: 28px;
 }
