@@ -33,3 +33,10 @@ h1 {
 .noclick {
     background-color: yellow;
 }
+.avatar.proportioned {
+    width: 300px;
+}
+.avatar.disproportioned {
+    width: 200px;
+    height: 400px;
+}
