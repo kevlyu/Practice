@@ -35,6 +35,7 @@ h1 {
 }
 .avatar.proportioned {
     width: 300px;
+    height: auto;
 }
 .avatar.disproportioned {
     width: 200px;
